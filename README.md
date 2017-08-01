@@ -10,4 +10,4 @@ you can:
 you must:
 
 * add copyright notice 
-* adcd permission notice appear
+* add permission notice appear
